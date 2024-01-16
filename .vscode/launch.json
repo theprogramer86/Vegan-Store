@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MajorApplication<major>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.suraj.major.MajorApplication",
+            "projectName": "major",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
